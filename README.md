@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is NIYIBIZI HIRWA and I'm a software developer/DevOps engineer. I'm from RWanda in Kigali
+My name is NIYIBIZI HIRWA and I'm Senior Web developer. I'm from RWanda in Kigali
 
 ## &#x270d;  Senior Web developmer at TRUSTED KIGALI DEVELOPERS
 
