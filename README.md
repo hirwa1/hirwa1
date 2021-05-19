@@ -8,6 +8,8 @@ My name is NIYIBIZI HIRWA and I'm Senior Web developer. I'm from RWanda in Kigal
 
 ## &#x270d;  Senior Web developmer at TRUSTED KIGALI DEVELOPERS
 
+#Today Views  - Hey visitor 
+
  <img src="https://komarev.com/ghpvc/?username=hirwa1&style=plastic" title="Umutambyi Gad's profile visitors" width="150">
 
 ## 🔧 Technologies & Tools
