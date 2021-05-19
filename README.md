@@ -2,7 +2,7 @@
 
 ![Header](https://miro.medium.com/max/700/0*FXXzezZ85t7EuAyf)
 
-# Hello, folks! <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fstickers%2Fsearch%2Fzyx%2B%255Bhearbreak%2Bemoji%255D&psig=AOvVaw3inOytZbZU9rnZ0axjOrtF&ust=1621526002106000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDB0Z-N1vACFQAAAAAdAAAAABAJ" width="30px">
+# Hello, folks! <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px">
 
 My name is NIYIBIZI HIRWA and I'm Senior Web developer. I'm from RWanda in Kigali
 
