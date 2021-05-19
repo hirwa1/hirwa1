@@ -32,5 +32,6 @@ My name is NIYIBIZI HIRWA and I'm Senior Web developer. I'm from RWanda in Kigal
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hirwa1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umutambyi-gad&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact)|
 </a>
 
