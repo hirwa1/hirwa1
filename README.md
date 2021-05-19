@@ -2,7 +2,7 @@
 
 [![Header](https://hackernoon.com/drafts/xl192gpf.png "Header")](https://martinheinz.dev/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://miro.medium.com/max/700/0*FXXzezZ85t7EuAyf" width="30px">
 
 My name is NIYIBIZI HIRWA and I'm Senior Web developer. I'm from RWanda in Kigali
 
