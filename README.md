@@ -32,5 +32,5 @@ My name is NIYIBIZI HIRWA and I'm Senior Web developer. I'm from RWanda in Kigal
 
 
 |![NIYIBIZI HIRWA](https://github-readme-stats.vercel.app/api?username=hirwa1&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwa1&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact)|
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ciradu2204&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact)|
 
