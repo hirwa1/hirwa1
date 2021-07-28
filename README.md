@@ -66,8 +66,20 @@ My name is NIYIBIZI HIRWA and I'm Senior Web developer. I'm from RWanda in Kigal
 [![Opentoons Badge](https://img.shields.io/badge/Opentoons-35495E?style=for-the-badge&logo=Opentoons&logoColor=4FC08D)](#)
  <hr>
  
+ <!-- START NEW SECTION -->
+<p align="center">
+  <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <h2 align="center">My Github Profile Trophy</h2>
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hirwa1&theme=radical&margin-w=40&margin-h=40)](https://github.com/hirwa1)
+
+<hr>
+
+ 
 ## &#x1f4c8; GitHub Stats
 
+ 
 
 
 |![NIYIBIZI HIRWA](https://github-readme-stats.vercel.app/api?username=hirwa1&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|
