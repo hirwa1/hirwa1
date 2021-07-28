@@ -60,3 +60,8 @@ My name is NIYIBIZI HIRWA and I'm Senior Web developer. I'm from RWanda in Kigal
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwa1&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact)|
 ...
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
+</p>
