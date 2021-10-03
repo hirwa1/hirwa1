@@ -6,7 +6,7 @@
 
 My name is NIYIBIZI HIRWA and I'm Senior Web developer. I'm from RWanda in Kigali
 
-## &#x270d;  Senior Web developmer at TRUSTED KIGALI DEVELOPERS
+## &#x270d;  Senior Web developer at TRUSTED KIGALI DEVELOPERS
 
 
 
