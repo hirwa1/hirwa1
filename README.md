@@ -28,16 +28,10 @@ My name is NIYIBIZI HIRWA and I'm Senior Web developer. I'm from RWanda in Kigal
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#top-technologies"></a>🚀 My Tools And Technologies</h3>
  
-[![Python Badge](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=Python&logoColor=4FC08D)](#) [![OpenCV Badge](https://img.shields.io/badge/OpenCV-35495E?style=for-the-badge&logo=OpenCV&logoColor=4FC08D)](#) [![Flask Badge](https://img.shields.io/badge/Flask-35495E?style=for-the-badge&logo=Flask&logoColor=4FC08D)](#)
-[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
-[![Swing Badge](https://img.shields.io/badge/-Swing-007396?style=for-the-badge&labelColor=black&logo=Swing&logoColor=007396)](#)
-[![Spring Badge](https://img.shields.io/badge/-Spring-007396?style=for-the-badge&labelColor=black&logo=Spring&logoColor=007396)](#)
-[![Maven Badge](https://img.shields.io/badge/-Maven-007396?style=for-the-badge&labelColor=black&logo=Maven&logoColor=007396)](#)
-[![Hibernate Badge](https://img.shields.io/badge/-Hibernate-007396?style=for-the-badge&labelColor=black&logo=Hibernate&logoColor=007396)](#)
+[![Python Badge](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=Python&logoColor=4FC08D)](#) 
 [![Apache Badge](https://img.shields.io/badge/-Apache-007396?style=for-the-badge&labelColor=black&logo=Apache&logoColor=007396)](#)
 [![PHP Badge](https://img.shields.io/badge/-PHP-A8B9CC?style=for-the-badge&labelColor=white&logo=PHP&logoColor=A8B9CC)](#)
 [![Ajax Badge](https://img.shields.io/badge/-Ajax-A8B9CC?style=for-the-badge&labelColor=white&logo=Ajax&logoColor=A8B9CC)](#)
-[![Angular Badge](https://img.shields.io/badge/-Angular-A8B9CC?style=for-the-badge&labelColor=white&logo=Angular&logoColor=A8B9CC)](#)
 [![JQuery Badge](https://img.shields.io/badge/-JQuery-A8B9CC?style=for-the-badge&labelColor=white&logo=JQuery&logoColor=A8B9CC)](#)
 [![c Badge](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC)](#)
 [![c++ Badge](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&labelColor=white&logo=c&logoColor=00599C)](#) 
@@ -53,17 +47,13 @@ My name is NIYIBIZI HIRWA and I'm Senior Web developer. I'm from RWanda in Kigal
 [![GitHub Badge](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=GitHub&logoColor=61DAFB)](#) 
 [![Linux Badge](https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=Linux&logoColor=61DAFB)](#) 
 [![Windows Badge](https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=Windows&logoColor=61DAFB)](#) 
-[![Workbench Badge](https://img.shields.io/badge/Workbench-20232A?style=for-the-badge&logo=Workbench&logoColor=61DAFB)](#) 
 [![Socket.io Badge](https://img.shields.io/badge/Socket.io-20232A?style=for-the-badge&logo=Socket.io&logoColor=61DAFB)](#) 
 [![npm Badge](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=61DAFB)](#) 
 [![JSON Badge](https://img.shields.io/badge/JSON-20232A?style=for-the-badge&logo=JSON&logoColor=61DAFB)](#) 
-[![Motors Badge](https://img.shields.io/badge/-Motors-A8B9CC?style=for-the-badge&labelColor=white&logo=Motors&logoColor=A8B9CC)](#)
 [![Scratch Badge](https://img.shields.io/badge/Scratch-35495E?style=for-the-badge&logo=Scratch&logoColor=4FC08D)](#)
 [![Blender Badge](https://img.shields.io/badge/Blender-35495E?style=for-the-badge&logo=Blender&logoColor=4FC08D)](#)
 [![Photoshop Badge](https://img.shields.io/badge/Photoshop-35495E?style=for-the-badge&logo=Photoshop&logoColor=4FC08D)](#)
-[![Krita Badge](https://img.shields.io/badge/Krita-35495E?style=for-the-badge&logo=Krita&logoColor=4FC08D)](#)
 [![Adobe Badge](https://img.shields.io/badge/Adobe-35495E?style=for-the-badge&logo=Adobe&logoColor=4FC08D)](#)
-[![Opentoons Badge](https://img.shields.io/badge/Opentoons-35495E?style=for-the-badge&logo=Opentoons&logoColor=4FC08D)](#)
  <hr>
  
  <!-- START NEW SECTION -->
@@ -91,3 +81,4 @@ My name is NIYIBIZI HIRWA and I'm Senior Web developer. I'm from RWanda in Kigal
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
 </p>
+
