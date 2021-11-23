@@ -4,9 +4,14 @@
 
 # Hello, folks! <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px">
 
-My name is NIYIBIZI HIRWA and I'm Senior Web developer. I'm from RWanda in Kigali
+I'm NIYIBIZI HIRWA and I'm Senior Web developer , From Rwanda in Kigali.
 
-## &#x270d;  Wordpress Developer And Front-End Developer  at TRUSTED KIGALI DEVELOPERS
+##  Extraordinary ,  is the 'extra' that make us more than ordinary. &#x270d;
+##  Extra Hours ?>
+##  Extra lines of Codes ?>
+##  Extra additional books ?>
+
+&#x270d;I am currently working on wordpress Development( Plugin and Themes) ,  Front-end development (ReactJs and Bootstrap ) And Core PHP in General .
 
 
 
