@@ -31,34 +31,7 @@ I'm NIYIBIZI HIRWA and I'm Senior Web developer , From Rwanda in Kigali.
 <hr>
  
 
-<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#top-technologies"></a>🚀 My Tools And Technologies</h3>
- 
-[![Python Badge](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=Python&logoColor=4FC08D)](#) 
-[![Apache Badge](https://img.shields.io/badge/-Apache-007396?style=for-the-badge&labelColor=black&logo=Apache&logoColor=007396)](#)
-[![PHP Badge](https://img.shields.io/badge/-PHP-A8B9CC?style=for-the-badge&labelColor=white&logo=PHP&logoColor=A8B9CC)](#)
-[![Ajax Badge](https://img.shields.io/badge/-Ajax-A8B9CC?style=for-the-badge&labelColor=white&logo=Ajax&logoColor=A8B9CC)](#)
-[![JQuery Badge](https://img.shields.io/badge/-JQuery-A8B9CC?style=for-the-badge&labelColor=white&logo=JQuery&logoColor=A8B9CC)](#)
-[![c Badge](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC)](#)
-[![c++ Badge](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&labelColor=white&logo=c&logoColor=00599C)](#) 
-[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) 
-[![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) 
-[![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![HTML Badge](https://img.shields.io/badge/HTML-43853D?style=for-the-badge&logo=HTML&logoColor=white)](#)
-[![CSS Badge](https://img.shields.io/badge/CSS-43853D?style=for-the-badge&logo=CSS&logoColor=white)](#) 
-[![VCode Badge](https://img.shields.io/badge/VCode-20232A?style=for-the-badge&logo=VCode&logoColor=61DAFB)](#) 
-[![Git Badge](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=Git&logoColor=61DAFB)](#) 
-[![MYSQL Badge](https://img.shields.io/badge/MYSQL-20232A?style=for-the-badge&logo=MYSQL&logoColor=61DAFB)](#) 
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=61DAFB)](#) 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=GitHub&logoColor=61DAFB)](#) 
-[![Linux Badge](https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=Linux&logoColor=61DAFB)](#) 
-[![Windows Badge](https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=Windows&logoColor=61DAFB)](#) 
-[![Socket.io Badge](https://img.shields.io/badge/Socket.io-20232A?style=for-the-badge&logo=Socket.io&logoColor=61DAFB)](#) 
-[![npm Badge](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=61DAFB)](#) 
-[![JSON Badge](https://img.shields.io/badge/JSON-20232A?style=for-the-badge&logo=JSON&logoColor=61DAFB)](#) 
-[![Scratch Badge](https://img.shields.io/badge/Scratch-35495E?style=for-the-badge&logo=Scratch&logoColor=4FC08D)](#)
-[![Blender Badge](https://img.shields.io/badge/Blender-35495E?style=for-the-badge&logo=Blender&logoColor=4FC08D)](#)
-[![Photoshop Badge](https://img.shields.io/badge/Photoshop-35495E?style=for-the-badge&logo=Photoshop&logoColor=4FC08D)](#)
-[![Adobe Badge](https://img.shields.io/badge/Adobe-35495E?style=for-the-badge&logo=Adobe&logoColor=4FC08D)](#)
+
  <hr>
  
  <!-- START NEW SECTION -->
