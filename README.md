@@ -9,7 +9,7 @@ I'm NIYIBIZI HIRWA and I'm Senior Web developer , From Rwanda in Kigali.
 ##  Extraordinary ,  is the 'extra' that make us more than ordinary. &#x270d;
 
 
-&#x270d;I am currently working on Core PHP(SYMFONY) , WordPress Development( Plugin and Themes) And  Front-end development (ReactJs and Bootstrap ) in General .
+## &#x270d; I am currently working on Core PHP(Symfony and Codeigniter) , WordPress Development( Plugins and Themes), Node JS And  Front-end development (ReactJs , Tailwind, and Bootstrap ) in General .
 
 
 
