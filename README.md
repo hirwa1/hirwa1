@@ -4,12 +4,12 @@
 
 # Hello, folks! <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px">
 
-I'm NIYIBIZI HIRWA and I'm Senior Web developer , From Rwanda in Kigali.
+I'm NIYIBIZI HIRWA and I'm Senior Web developer ( Full-stack) , From Rwanda in Kigali.
 
 ##  Extraordinary ,  is the 'extra' that make us more than ordinary. &#x270d;
 
 
-## &#x270d; I am currently working on Core PHP(Symfony and Codeigniter) , WordPress Development( Plugins and Themes), Node JS And  Front-end development (ReactJs , Tailwind, and Bootstrap ) in General .
+## &#x270d; Proffesional Laravel , WordPress , React Js , Core Php and Symfony Developer 
 
 
 
