@@ -9,7 +9,7 @@ I'm NIYIBIZI HIRWA and I'm Senior Web developer ( Full-stack) , From Rwanda in K
 ##  Extraordinary ,  is the 'extra' that make us more than ordinary. &#x270d;
 
 
-## &#x270d; Proffesional Laravel , WordPress , React Js , Core Php and Symfony Developer 
+## &#x270d; I'm Working on  Laravel , Symfony , Codeigniter  , FireBase ,  WordPress , React Js ,  VueJs , Inertia Js , Tailwind Css and 
 
 
 
