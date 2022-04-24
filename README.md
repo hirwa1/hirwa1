@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px">
 
-I'm NIYIBIZI HIRWA and I'm Senior Web developer ( Full-stack) , From Rwanda in Kigali.
+I'm NIYIBIZI HIRWA and I'm Senior Web developer ( Full-stack) , From Rwanda in Kigali
 
 
 
