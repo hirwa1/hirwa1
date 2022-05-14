@@ -4,20 +4,13 @@
 
 # Hello, folks! <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px">
 
-I'm NIYIBIZI HIRWA and I'm Senior Web developer ( Full-stack) , From Rwanda in Kigali
 
 
-
-
-## &#x270d; I'm Working on  Laravel , Symfony , Codeigniter  , FireBase ,  WordPress , React Js ,  VueJs , Inertia Js , Tailwind Css and 
 
 
 
 <!-- START NEW SECTION -->
-<div align="center">
-<br><p align="centre"><b>Last 24 Hrs Vistors</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{hirwa1}/count.svg" /></p> 
-<br></div>
+
 
 <p align="center">
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
