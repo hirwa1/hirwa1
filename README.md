@@ -3,9 +3,18 @@
 <img src="https://kigalidevelopers.com/wp-content/uploads/2022/03/TRUSTED-KIGALI-DEVELOPERS.png" >
 
 
+
+ <h3>Hello Folks, I'm NIYIBIZI HIRWA </h3>
+I am a solution-oriented Software Developer, an Aspiring CTO, and Tech enthusiast in Rwanda, a lifelong learner, and an adventurer with a  background in startup software-based solution development. I enjoy development because of the satisfaction I get by overcoming challenges. I am motivated by the opportunity that software provides to positively impact an individual's life and the world as a whole.<br><br>
+
+I'm stoic and I'm living without worries.
+
+<h4>Working on</h4>
 <ul>
-<li>I
+  <li>iGiTree</li>
+  <li>LinIdea</li>
 </ul>
+
 
  <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫 Connect with me</h3>
  
