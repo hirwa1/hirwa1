@@ -2,10 +2,7 @@
 
 <img src="https://kigalidevelopers.com/wp-content/uploads/2022/03/TRUSTED-KIGALI-DEVELOPERS.png" >
 
-# Hello, folks! <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px">
-
-
-
+# Hello, folks! 
 
 
 
