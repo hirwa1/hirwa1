@@ -11,7 +11,7 @@ I'm stoic and I'm living without worries.
 
 <h4>Working on</h4>
 <ul>
-  <li>iGiTree</li>
+  <li><a href="google.com" targe="blank_">iGiTree</a></li>
   <li>LinIdea</li>
 </ul>
 
