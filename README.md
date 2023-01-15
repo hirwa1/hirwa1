@@ -9,11 +9,7 @@ I am a solution-oriented Software Developer, an Aspiring CTO, and Tech enthusias
 
 I'm stoic and I'm living without worries.
 
-<h4>Working on</h4>
-<ul>
-  <li><a href="https://www.igitree.com/" >iGiTree</a></li>
- <li><a href="https://linidea.com/">LinIdea</a></li>
-</ul>
+
 
 
  <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫 Connect with me</h3>
