@@ -1,13 +1,11 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7  -->
 
-<img src="https://kigalidevelopers.com/wp-content/uploads/2022/03/TRUSTED-KIGALI-DEVELOPERS.png" >
+
 
 
 
  <h3>Hello Folks, I'm NIYIBIZI HIRWA </h3>
-I am a solution-oriented Software Developer, an Aspiring CTO, and Tech enthusiast in Rwanda, a lifelong learner, and an adventurer with a  background in startup software-based solution development. I enjoy development because of the satisfaction I get by overcoming challenges. I am motivated by the opportunity that software provides to positively impact an individual's life and the world as a whole.<br><br>
-
-I'm stoic and I'm living without worries.
+<h4> I don't write bugs </h4>
 
 
 
