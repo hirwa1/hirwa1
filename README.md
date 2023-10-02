@@ -5,7 +5,7 @@
 
 
  <h3>Hello Folks, I'm NIYIBIZI HIRWA </h3>
-<h4> I don't write bugs </h4>
+<h4> I write text that change how computer behave </h4>
 
 
 
