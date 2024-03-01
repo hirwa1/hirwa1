@@ -4,9 +4,7 @@
 
 
 
-Certainly! Crafting a comprehensive README for your GitHub profile can greatly enhance your professional image and attract collaborators. Here's a template to get you started:
 
----
 
 # NIYIBIZI HIRWA
 
