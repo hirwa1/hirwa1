@@ -4,9 +4,20 @@
 
 
 
- <h3>Hello Folks, I'm NIYIBIZI HIRWA </h3>
-<h4> I write text that change how computer behave </h4>
+Certainly! Crafting a comprehensive README for your GitHub profile can greatly enhance your professional image and attract collaborators. Here's a template to get you started:
 
+---
+
+# NIYIBIZI HIRWA
+
+## About Me
+I'm NIYIBIZI HIRWA, a passionate software engineer with expertise in PHP Laravel, Golang,  clean architecture, CQRS, mathematics, and software architecture. I specialize in writing clean and efficient code that leverages modern software engineering principles to deliver robust solutions.
+
+## Skills
+- **Languages:** PHP, Go, SQL
+- **Frameworks:** Laravel, Gin
+- **Architectural Patterns:** Clean Architecture, CQRS
+- **Mathematics:** Calculus and  Probability Theory
 
 
 
