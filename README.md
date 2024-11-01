@@ -1,21 +1,11 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7  -->
-
-
-
-
-
-
 
 # NIYIBIZI HIRWA
 
 ## About Me
-I'm NIYIBIZI HIRWA, a passionate software engineer with expertise in PHP Laravel, Golang,  clean architecture, CQRS, mathematics, and software architecture. I specialize in writing clean and efficient code that leverages modern software engineering principles to deliver robust solutions.
+I'm NIYIBIZI HIRWA, a passionate software engineer with expertise in PHP, Golang, SQL, and mathematics.
 
 ## Skills
-- **Languages:** PHP, Go, SQL
-- **Frameworks:** Laravel, Gin
-- **Architectural Patterns:** Clean Architecture, CQRS
-- **Mathematics:** Calculus and  Probability Theory
+- **Languages:** PHP, Go, SQL and Math
 
 
 
