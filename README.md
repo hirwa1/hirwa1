@@ -4,9 +4,8 @@
 ## About Me
 I'm NIYIBIZI HIRWA, a passionate software engineer with expertise in PHP, Golang, SQL, and mathematics.
 
-## Skills
-- **Languages:** PHP, Go, SQL and Math
-
+## I'm working on
+[Linidea](https://linidea.com/)
 
 
  <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫 Connect with me</h3>
@@ -15,5 +14,3 @@ I'm NIYIBIZI HIRWA, a passionate software engineer with expertise in PHP, Golang
 
 
 ![hirwa1's Stats](https://github-readme-stats.vercel.app/api?username=hirwa1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![hirwa1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hirwa1&theme=vue-dark&hide_border=true)
-![hirwa1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwa1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
