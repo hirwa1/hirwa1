@@ -4,8 +4,6 @@
 ## About Me
 I'm NIYIBIZI HIRWA, a passionate software engineer with expertise in PHP, Golang, SQL, and mathematics.
 
-## I'm working on
-[Linidea](https://linidea.com/)
 
 
  <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫 Connect with me</h3>
